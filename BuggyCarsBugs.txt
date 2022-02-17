@@ -1,0 +1,55 @@
+Title: User logged in automatically on browser relaunch
+Description: 
+Once user logs in he/she can close the browser and his session is still maintained after browser relaunch.
+
+Steps to Reproduce:
+1) Login into the website.
+2) Close the browser without logging out.
+3) Launch the browser again.
+
+Expected Result:
+User session should have ended on browser close. User needs to login again to continue.
+
+Actual Result:
+User session is still active.
+
+
+---------------------------------------------------------------
+Title: Buggy rating header link is broken on popular make page
+Description:
+Buggy rating link is broken:
+From popular make page without login.
+Once user logs in on all sub pages.
+
+Steps to Reproduce:
+1) Login into the website.
+2) Navigate to popular make/Popular model/Overall rating.
+3) Click on buggy rating link on header.
+
+OR
+
+1) Launch website.
+2) Navigate to popular make/Popular model/Overall rating.
+3) Click on buggy rating link on header.
+
+Expected Result:
+User should be navigated to home page.
+
+Actual Result:
+Nothing happens. Link is broken.
+
+
+---------------------------------------------------------------
+Title: A lot of console errors on website.
+Description: 
+A lot of console errors on website.
+
+Steps to Reproduce:
+1) Launch website.
+2) Check browser console.
+
+Expected Result:
+There should be no errors on console.
+
+Actual Result:
+A lot of errors on browser console.
