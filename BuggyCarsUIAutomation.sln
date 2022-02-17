@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuggyCarsUIAutomation", "BuggyCarsUIAutomation\BuggyCarsUIAutomation.csproj", "{B4CBFF2C-18C0-4A06-9FEF-0AEB6EC54398}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4CBFF2C-18C0-4A06-9FEF-0AEB6EC54398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CBFF2C-18C0-4A06-9FEF-0AEB6EC54398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CBFF2C-18C0-4A06-9FEF-0AEB6EC54398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CBFF2C-18C0-4A06-9FEF-0AEB6EC54398}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {849D1125-6EAC-400F-BDB9-E9ECF6BFB507}
+	EndGlobalSection
+EndGlobal
